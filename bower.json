@@ -15,5 +15,6 @@
   "ignore": [
       ],
   "dependencies": {
+    "opentype.js"
   }
 }
