@@ -1,0 +1,19 @@
+{
+  "name": "fabric-curves-text",
+  "version": "0.1",
+  "main": "src/fabric.CurvesText.js",
+  "keywords": [
+    "graphics",
+    "fonts",
+    "opentype",
+    "otf",
+    "ttf",
+    "woff",
+    "type",
+    "fabric"
+  ],
+  "ignore": [
+      ],
+  "dependencies": {
+  }
+}
